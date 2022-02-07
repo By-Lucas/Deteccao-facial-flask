@@ -1,5 +1,5 @@
-# Streaming-Opencv
-## Streaming Opencv, Python, Flask
+# Detecção facial -Python + Opencv + Flask
+## Vamos brincar com IA
 **Instalar as bibliotecas**
 ~~~ shell
 pip install opencv-python
